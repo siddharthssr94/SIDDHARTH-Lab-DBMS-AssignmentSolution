@@ -1,2 +1,2 @@
 # SIDDHARTH-Lab-DBMS-AssignmentSolution
-DBMS Lab Solution(7 Nov)
+Great Learning - Lab 4 - DBMS - 7th Nov 2021
